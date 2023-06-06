@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "nombre": "Criollitas",
+    "precio": 2,
+    "img": "./assets/imagenes/productoArgentinos/criollitas.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Bon o Bon",
+    "precio": 4,
+    "img": "./assets/imagenes/productoArgentinos/caja-bon-o-bon.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Chocolinas",
+    "precio": 4,
+    "img": "./assets/imagenes/productoArgentinos/chocolinas.png",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Don Satur",
+    "precio": 2,
+    "img": "./assets/imagenes/productoArgentinos/don-satur.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Yerba Amanda",
+    "precio": 3,
+    "img": "./assets/imagenes/productoArgentinos/Kit-Yerba-Amanda-mate-aluminio-374x374.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Mantecol",
+    "precio": 2,
+    "img": "./assets/imagenes/productoArgentinos/mantecol.png",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Merengadas",
+    "precio": 1,
+    "img": "./assets/imagenes/productoArgentinos/Merengadas-Galletas.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Anis",
+    "precio": 8,
+    "img": "./assets/imagenes/productosVenezolanos/Anis1.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Cacique Ron",
+    "precio": 25,
+    "img": "./assets/imagenes/productosVenezolanos/Cacique.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Cerveza Zulia",
+    "precio": 2,
+    "img": "./assets/imagenes/productosVenezolanos/Cerveza_Zulia.png",
+    "cantidad": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Diablitos",
+    "precio": 4,
+    "img": "./assets/imagenes/productosVenezolanos/Diablillos.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Ponche Crema",
+    "precio": 12,
+    "img": "./assets/imagenes/productosVenezolanos/LICOR_DE_PONCHE_CREMA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 13,
+    " nombre": "Samba Fresa",
+    "precio": 3,
+    "img": "./assets/imagenes/productosVenezolanos/Samba_Fresa.jpg",
+    " cantidad": 1
+  },
+  {
+    " id": 14,
+    " nombre": "Toddy",
+    "precio": 8,
+    "img": "./assets/imagenes/productosVenezolanos/Toddy.jpg",
+    "cantidad": 1
+  }
+]
